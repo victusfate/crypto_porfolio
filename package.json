@@ -1,0 +1,26 @@
+{
+  "name": "crypto_portfolio",
+  "version": "1.0.0",
+  "description": "quick and dirty crypto porfolio calc",
+  "main": "p.js",
+  "scripts": {
+    "test": "node p.js holdings.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victusfate/crypto_portfolio.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "portfolio"
+  ],
+  "author": "victusfate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victusfate/crypto_portfolio/issues"
+  },
+  "homepage": "https://github.com/victusfate/crypto_portfolio#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
