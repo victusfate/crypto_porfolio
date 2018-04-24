@@ -1,5 +1,5 @@
 # crypto_portfolio
-quick and dirty crypto porfolio calc
+quick and dirty crypto portfolio calc
 
 to use:
 
